@@ -1,0 +1,90 @@
+{
+    "10": {
+        "id": "10",
+        "nombre": "PEPE",
+        "tipo": "PERRO",
+        "raza": "LABRADOR",
+        "edad": 7,
+        "nombrePropietario": "HENRY PEREZ"
+    },
+    "11": {
+        "id": "11",
+        "nombre": "MATEO",
+        "tipo": "PERRO",
+        "raza": "PASTOR ALEMAN",
+        "edad": 3,
+        "nombrePropietario": "HENRY REYES"
+    },
+    "12": {
+        "id": "12",
+        "nombre": "WILLY",
+        "tipo": "GATO",
+        "raza": "ANGORA",
+        "edad": 2,
+        "nombrePropietario": "SANDRA MILENA"
+    },
+    "13": {
+        "id": "13",
+        "nombre": "JHONNY",
+        "tipo": "REPTIL",
+        "raza": "CAIMAN",
+        "edad": 2,
+        "nombrePropietario": "WILLIAM"
+    },
+    "14": {
+        "id": "14",
+        "nombre": "PACO",
+        "tipo": "AVE",
+        "raza": "LORO",
+        "edad": 2,
+        "nombrePropietario": "CRISTIAN"
+    },
+    "15": {
+        "id": "15",
+        "nombre": "POLLITO",
+        "tipo": "AVE",
+        "raza": "CARPINTERO",
+        "edad": 9,
+        "nombrePropietario": "ANA"
+    },
+    "16": {
+        "id": "16",
+        "nombre": "DANYER",
+        "tipo": "PERRO",
+        "raza": "PUG",
+        "edad": 10,
+        "nombrePropietario": "PIPE"
+    },
+    "17": {
+        "id": "17",
+        "nombre": "TITAN",
+        "tipo": "GATO",
+        "raza": "BLANCO",
+        "edad": 8,
+        "nombrePropietario": "GUSTAVO"
+    },
+    "18": {
+        "id": "18",
+        "nombre": "VANESSA",
+        "tipo": "REPTIL",
+        "raza": "IGUANA",
+        "edad": 4,
+        "nombrePropietario": "MELASA"
+    },
+    "19": {
+        "id": "19",
+        "nombre": "TOMMY",
+        "tipo": "PERRO",
+        "raza": "GOLDEN",
+        "edad": 15,
+        "nombrePropietario": "ORLANDO "
+    },
+    "40": {
+        "id": "40",
+        "nombre": "HERCULION",
+        "tipo": "PERRO",
+        "raza": "YORKY",
+        "edad": 9,
+        "nombrePropietario": "JAULA"
+    }
+}

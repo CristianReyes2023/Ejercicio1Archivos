@@ -1,0 +1,92 @@
+{
+    "1": {
+        "idCita": "04196",
+        "numeroCita": "1",
+        "fecha": "24-10-2023",
+        "horaCita": "20:00",
+        "informacionVeterinario": {
+            "idVeterinario": "3",
+            "nombreVeterinario": "ORLANDO"
+        },
+        "informacionPaciente": {
+            "idPaciente": "16",
+            "nombrePaciente": "DANYER",
+            "tipo": "PERRO",
+            "raza": "PUG",
+            "edad": 10,
+            "propietario": "PIPE"
+        }
+    },
+    "2": {
+        "idCita": "02960",
+        "numeroCita": "2",
+        "fecha": "24-10-2023",
+        "horaCita": "21:00",
+        "informacionVeterinario": {
+            "idVeterinario": "3",
+            "nombreVeterinario": "ORLANDO"
+        },
+        "informacionPaciente": {
+            "idPaciente": "14",
+            "nombrePaciente": "PACO",
+            "tipo": "AVE",
+            "raza": "LORO",
+            "edad": 2,
+            "propietario": "CRISTIAN"
+        }
+    },
+    "3": {
+        "idCita": "06512",
+        "numeroCita": "3",
+        "fecha": "10-04-2023",
+        "horaCita": "17:00",
+        "informacionVeterinario": {
+            "idVeterinario": "3",
+            "nombreVeterinario": "ORLANDO"
+        },
+        "informacionPaciente": {
+            "idPaciente": "10",
+            "nombrePaciente": "PEPE",
+            "tipo": "PERRO",
+            "raza": "LABRADOR",
+            "edad": 7,
+            "propietario": "HENRY PEREZ"
+        }
+    },
+    "4": {
+        "idCita": "02988",
+        "numeroCita": "4",
+        "fecha": "21-06-2023",
+        "horaCita": "08:00",
+        "informacionVeterinario": {
+            "idVeterinario": "2",
+            "nombreVeterinario": "CARLOS"
+        },
+        "informacionPaciente": {
+            "idPaciente": "17",
+            "nombrePaciente": "TITAN",
+            "tipo": "GATO",
+            "raza": "BLANCO",
+            "edad": 8,
+            "propietario": "GUSTAVO"
+        }
+    },
+    "5": {
+        "idCita": "08301",
+        "numeroCita": "5",
+        "fecha": "2-1-2024",
+        "horaCita": "01:00",
+        "informacionVeterinario": {
+            "idVeterinario": "1",
+            "nombreVeterinario": "PEPE"
+        },
+        "informacionPaciente": {
+            "idPaciente": "14",
+            "nombrePaciente": "PACO",
+            "tipo": "AVE",
+            "raza": "LORO",
+            "edad": 2,
+            "propietario": "CRISTIAN"
+        }
+    }
+}
